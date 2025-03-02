@@ -1,0 +1,9 @@
+{
+	"name": "Data-Factory-Varsha",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d586fac-d0d2-43fc-b9a0-cef1fd733034",
+		"tenantId": "1afe8ef1-8fd6-49f1-b2f2-0f54b5c510a9"
+	}
+}
